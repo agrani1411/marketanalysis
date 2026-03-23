@@ -1,0 +1,15 @@
+# Data files (too large for git)
+data/raw/*.csv
+data/cleaned/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
