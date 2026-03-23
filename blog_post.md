@@ -62,7 +62,7 @@ This project taught me how to go from raw data to business recommendations:
 - Translating model output into **ROI impact**
 - The importance of **data leakage awareness** in real-world ML
 
-The full analysis notebook is on [GitHub](https://github.com/yourusername/marketanalysis).
+The full analysis notebook is on [GitHub](https://github.com/agrani1411/marketanalysis).
 
 ---
 *Built with Python, Pandas, Matplotlib, Seaborn, and Scikit-learn.*
